@@ -12,7 +12,7 @@ Il y a une page par pokemon qui affiche ses stats ainsi que ses évolutions et s
 On a également fait le fameux jeu "Who is this Pokemon ?".
 
 ## Installation
-Vous pouvez accéder au projet ici : https://js-a2-poke717.vercel.app/.
+Vous pouvez accéder au projet ici : https://pokedex-js-pok-api.vercel.app/.
 Pour installer et utiliser le projet, vous avez simplement à télécharger le zip et lancer l'index.html
 
 ## Les fonctions
