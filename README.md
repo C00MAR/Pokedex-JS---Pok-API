@@ -2,7 +2,7 @@
 
 ## Description 
 
-C'est un projet de Pokédex qui utilise PokeAPI. 
+C'est un projet de Pokédex qui utilise PokeAPI. Il est en Codéveloppement avec [@Enzdo](https://github.com/Enzdo), [@TobogganDev](https://github.com/TobogganDev) et [@jay177](https://github.com/jay177)
 Sur la page d'accueil il y a la possibilité de trier les pokemons qui s'affichent selon leur :
 - Type
 - Génération
